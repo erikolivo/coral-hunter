@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt -r requirements-dev.txt
-      - run: python -m pytest tests/ -v
+      - run: PYTHONPATH=src python -m pytest tests/ -v
 
   hunt:
     runs-on: ubuntu-latest
@@ -30,9 +30,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python -m coral.main
+      - run: PYTHONPATH=src python -m coral.main
         env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DRY_RUN: ${{ vars.DRY_RUN }}
