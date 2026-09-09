@@ -1,0 +1,25 @@
+{
+  "seen_products": {
+    "https://coralhipermercados.com/4ckg0c2-un.html": {
+      "url": "https://coralhipermercados.com/4ckg0c2-un.html",
+      "name": "Cuarzo Azul Galaxia 2400x650x18mm",
+      "original_price": 128.88,
+      "discount_price": 77.33,
+      "discount_pct": 40.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/c/4ckg0c2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "381754",
+      "category": "acabados",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-09T02:08:50.633373+00:00",
+      "seen_at": "2026-09-09T02:09:11.101895+00:00"
+    }
+  },
+  "alert_cooldowns": {
+    "https://coralhipermercados.com/4ckg0c2-un.html": "2026-09-09T02:09:11.101880+00:00"
+  },
+  "stats": {
+    "total_runs": 1,
+    "total_alerts": 1
+  }
+}
