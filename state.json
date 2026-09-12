@@ -11,15 +11,15 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-12T13:15:51.984265+00:00",
-      "seen_at": "2026-09-12T13:16:16.598607+00:00"
+      "fetched_at": "2026-09-12T16:39:04.447606+00:00",
+      "seen_at": "2026-09-12T16:39:23.380099+00:00"
     }
   },
   "alert_cooldowns": {
     "https://coralhipermercados.com/4ckg0c2-un.html": "2026-09-09T02:09:11.101880+00:00"
   },
   "stats": {
-    "total_runs": 20,
+    "total_runs": 21,
     "total_alerts": 1
   }
 }
