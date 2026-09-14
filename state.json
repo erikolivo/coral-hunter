@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-14T17:15:57.765122+00:00",
-      "seen_at": "2026-09-14T17:16:18.534458+00:00"
+      "fetched_at": "2026-09-14T21:11:40.687776+00:00",
+      "seen_at": "2026-09-14T21:12:06.557036+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -34,7 +34,7 @@
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": "2026-09-14T17:16:18.534434+00:00"
   },
   "stats": {
-    "total_runs": 32,
+    "total_runs": 33,
     "total_alerts": 2
   }
 }
