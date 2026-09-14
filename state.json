@@ -11,15 +11,30 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-14T11:15:35.724917+00:00",
-      "seen_at": "2026-09-14T11:15:55.462331+00:00"
+      "fetched_at": "2026-09-14T17:15:57.765122+00:00",
+      "seen_at": "2026-09-14T17:16:18.534458+00:00"
+    },
+    "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
+      "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
+      "name": "Esmeril Multiuso 1/6hp 110vv V cp5005-1",
+      "original_price": 1149998.85,
+      "discount_price": 35.03,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/6/e/6e10220_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "146984",
+      "category": "maquinaria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-14T17:15:53.392836+00:00",
+      "seen_at": "2026-09-14T17:16:18.534448+00:00"
     }
   },
   "alert_cooldowns": {
-    "https://coralhipermercados.com/4ckg0c2-un.html": "2026-09-09T02:09:11.101880+00:00"
+    "https://coralhipermercados.com/4ckg0c2-un.html": "2026-09-09T02:09:11.101880+00:00",
+    "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": "2026-09-14T17:16:18.534434+00:00"
   },
   "stats": {
-    "total_runs": 31,
-    "total_alerts": 1
+    "total_runs": 32,
+    "total_alerts": 2
   }
 }
