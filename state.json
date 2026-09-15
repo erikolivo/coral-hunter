@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-15T10:42:05.094136+00:00",
-      "seen_at": "2026-09-15T10:42:20.344797+00:00"
+      "fetched_at": "2026-09-15T15:21:48.206975+00:00",
+      "seen_at": "2026-09-15T15:22:12.627856+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -27,14 +27,44 @@
       "verdict": "DEAL",
       "fetched_at": "2026-09-15T10:42:02.228598+00:00",
       "seen_at": "2026-09-15T10:42:20.344780+00:00"
+    },
+    "https://coralhipermercados.com/foco-led-3000k-6w-50-48-mr16-gu5-3-pl-5074.html": {
+      "url": "https://coralhipermercados.com/foco-led-3000k-6w-50-48-mr16-gu5-3-pl-5074.html",
+      "name": "Foco LED 3000k 6wa Sa 50 48 mr16 gu5.3 P",
+      "original_price": 1149998.85,
+      "discount_price": 0.59,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/m/4m930ed.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "146480",
+      "category": "iluminacion",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-15T15:21:18.476181+00:00",
+      "seen_at": "2026-09-15T15:22:12.627840+00:00"
+    },
+    "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": {
+      "url": "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html",
+      "name": "Amarra para Cable fhs-3x120 1.2mm Blanco",
+      "original_price": 1149998.85,
+      "discount_price": 0.23,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/m/4m90804.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "143207",
+      "category": "material-electrico",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-15T15:21:23.563872+00:00",
+      "seen_at": "2026-09-15T15:22:12.627849+00:00"
     }
   },
   "alert_cooldowns": {
     "https://coralhipermercados.com/4ckg0c2-un.html": "2026-09-09T02:09:11.101880+00:00",
-    "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": "2026-09-14T17:16:18.534434+00:00"
+    "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": "2026-09-14T17:16:18.534434+00:00",
+    "https://coralhipermercados.com/foco-led-3000k-6w-50-48-mr16-gu5-3-pl-5074.html": "2026-09-15T15:22:12.627758+00:00",
+    "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": "2026-09-15T15:22:12.627827+00:00"
   },
   "stats": {
-    "total_runs": 35,
-    "total_alerts": 2
+    "total_runs": 36,
+    "total_alerts": 4
   }
 }
