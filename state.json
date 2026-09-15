@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-15T15:21:48.206975+00:00",
-      "seen_at": "2026-09-15T15:22:12.627856+00:00"
+      "fetched_at": "2026-09-15T19:22:44.917795+00:00",
+      "seen_at": "2026-09-15T19:23:01.654085+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -39,8 +39,8 @@
       "category": "iluminacion",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-15T15:21:18.476181+00:00",
-      "seen_at": "2026-09-15T15:22:12.627840+00:00"
+      "fetched_at": "2026-09-15T19:22:27.400570+00:00",
+      "seen_at": "2026-09-15T19:23:01.654062+00:00"
     },
     "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": {
       "url": "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html",
@@ -53,8 +53,8 @@
       "category": "material-electrico",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-15T15:21:23.563872+00:00",
-      "seen_at": "2026-09-15T15:22:12.627849+00:00"
+      "fetched_at": "2026-09-15T19:22:29.881072+00:00",
+      "seen_at": "2026-09-15T19:23:01.654078+00:00"
     }
   },
   "alert_cooldowns": {
@@ -64,7 +64,7 @@
     "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": "2026-09-15T15:22:12.627827+00:00"
   },
   "stats": {
-    "total_runs": 36,
+    "total_runs": 37,
     "total_alerts": 4
   }
 }
