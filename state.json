@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-16T00:54:09.150717+00:00",
-      "seen_at": "2026-09-16T00:54:26.474808+00:00"
+      "fetched_at": "2026-09-16T10:30:18.181026+00:00",
+      "seen_at": "2026-09-16T10:30:34.274595+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -39,8 +39,8 @@
       "category": "iluminacion",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-16T00:53:47.071850+00:00",
-      "seen_at": "2026-09-16T00:54:26.474788+00:00"
+      "fetched_at": "2026-09-16T10:29:54.724427+00:00",
+      "seen_at": "2026-09-16T10:30:34.274576+00:00"
     },
     "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": {
       "url": "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html",
@@ -55,16 +55,31 @@
       "verdict": "DEAL",
       "fetched_at": "2026-09-16T00:53:50.581805+00:00",
       "seen_at": "2026-09-16T00:54:26.474800+00:00"
+    },
+    "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": {
+      "url": "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html",
+      "name": "Adapt Base Boqv 2p2w 125v Marf Coop",
+      "original_price": 1149998.85,
+      "discount_price": 1.08,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/m/4m918g4.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "143306",
+      "category": "material-electrico",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-16T10:29:59.452374+00:00",
+      "seen_at": "2026-09-16T10:30:34.274587+00:00"
     }
   },
   "alert_cooldowns": {
     "https://coralhipermercados.com/4ckg0c2-un.html": "2026-09-09T02:09:11.101880+00:00",
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": "2026-09-14T17:16:18.534434+00:00",
     "https://coralhipermercados.com/foco-led-3000k-6w-50-48-mr16-gu5-3-pl-5074.html": "2026-09-15T15:22:12.627758+00:00",
-    "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": "2026-09-15T15:22:12.627827+00:00"
+    "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": "2026-09-15T15:22:12.627827+00:00",
+    "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": "2026-09-16T10:30:34.274562+00:00"
   },
   "stats": {
-    "total_runs": 39,
-    "total_alerts": 4
+    "total_runs": 40,
+    "total_alerts": 5
   }
 }
