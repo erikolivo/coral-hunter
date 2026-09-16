@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-16T19:13:53.032144+00:00",
-      "seen_at": "2026-09-16T19:14:05.861221+00:00"
+      "fetched_at": "2026-09-16T22:29:44.399155+00:00",
+      "seen_at": "2026-09-16T22:29:59.777741+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -79,7 +79,7 @@
     "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": "2026-09-16T10:30:34.274562+00:00"
   },
   "stats": {
-    "total_runs": 42,
+    "total_runs": 43,
     "total_alerts": 5
   }
 }
