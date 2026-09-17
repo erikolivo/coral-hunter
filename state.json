@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-17T15:23:24.893805+00:00",
-      "seen_at": "2026-09-17T15:23:45.820942+00:00"
+      "fetched_at": "2026-09-17T19:25:30.385954+00:00",
+      "seen_at": "2026-09-17T19:25:45.174373+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -69,6 +69,34 @@
       "verdict": "DEAL",
       "fetched_at": "2026-09-16T10:29:59.452374+00:00",
       "seen_at": "2026-09-16T10:30:34.274587+00:00"
+    },
+    "https://coralhipermercados.com/plancha-de-acrilico-blanco-3mm-9691.html": {
+      "url": "https://coralhipermercados.com/plancha-de-acrilico-blanco-3mm-9691.html",
+      "name": "Plancha de Acrilico Blanco 3mm",
+      "original_price": 11499998.85,
+      "discount_price": 54.31,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/a/4a16007-3.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "272024",
+      "category": "textiles-y-manufactura",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-17T19:25:20.473188+00:00",
+      "seen_at": "2026-09-17T19:25:45.174361+00:00"
+    },
+    "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": {
+      "url": "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html",
+      "name": "Plumas Momo Plana 20 T Caucho wf-001-20",
+      "original_price": 1149998.85,
+      "discount_price": 3.58,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/m/4ma0035.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "171452",
+      "category": "automotriz",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-17T19:25:23.673334+00:00",
+      "seen_at": "2026-09-17T19:25:45.174368+00:00"
     }
   },
   "alert_cooldowns": {
@@ -76,10 +104,12 @@
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": "2026-09-14T17:16:18.534434+00:00",
     "https://coralhipermercados.com/foco-led-3000k-6w-50-48-mr16-gu5-3-pl-5074.html": "2026-09-15T15:22:12.627758+00:00",
     "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": "2026-09-15T15:22:12.627827+00:00",
-    "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": "2026-09-16T10:30:34.274562+00:00"
+    "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": "2026-09-16T10:30:34.274562+00:00",
+    "https://coralhipermercados.com/plancha-de-acrilico-blanco-3mm-9691.html": "2026-09-17T19:25:45.174308+00:00",
+    "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": "2026-09-17T19:25:45.174353+00:00"
   },
   "stats": {
-    "total_runs": 46,
-    "total_alerts": 5
+    "total_runs": 47,
+    "total_alerts": 7
   }
 }
