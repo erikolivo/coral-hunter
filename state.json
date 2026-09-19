@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-18T20:22:39.109280+00:00",
-      "seen_at": "2026-09-18T20:22:56.347297+00:00"
+      "fetched_at": "2026-09-19T00:48:11.452131+00:00",
+      "seen_at": "2026-09-19T00:48:26.572568+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -109,7 +109,7 @@
     "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": "2026-09-17T19:25:45.174353+00:00"
   },
   "stats": {
-    "total_runs": 54,
+    "total_runs": 55,
     "total_alerts": 7
   }
 }
