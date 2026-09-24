@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-24T19:37:34.971993+00:00",
-      "seen_at": "2026-09-24T19:37:56.642790+00:00"
+      "fetched_at": "2026-09-24T22:50:29.070183+00:00",
+      "seen_at": "2026-09-24T22:50:50.133975+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -97,6 +97,20 @@
       "verdict": "DEAL",
       "fetched_at": "2026-09-18T00:54:26.712429+00:00",
       "seen_at": "2026-09-18T00:54:45.690146+00:00"
+    },
+    "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html": {
+      "url": "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html",
+      "name": "Galleta Krispiz | Pack x6 228g",
+      "original_price": 2.7,
+      "discount_price": 1.62,
+      "discount_pct": 40.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/X/8/X86062H-UN_1789731042119.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "160229",
+      "category": "confiteria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-24T22:50:38.063169+00:00",
+      "seen_at": "2026-09-24T22:50:50.133989+00:00"
     }
   },
   "alert_cooldowns": {
@@ -106,10 +120,11 @@
     "https://coralhipermercados.com/amarra-para-cable-fhs-3x120-1-2mm-blanco-6095.html": "2026-09-15T15:22:12.627827+00:00",
     "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": "2026-09-16T10:30:34.274562+00:00",
     "https://coralhipermercados.com/plancha-de-acrilico-blanco-3mm-9691.html": "2026-09-17T19:25:45.174308+00:00",
-    "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": "2026-09-17T19:25:45.174353+00:00"
+    "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": "2026-09-17T19:25:45.174353+00:00",
+    "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html": "2026-09-24T22:50:50.133957+00:00"
   },
   "stats": {
-    "total_runs": 84,
-    "total_alerts": 7
+    "total_runs": 85,
+    "total_alerts": 8
   }
 }
