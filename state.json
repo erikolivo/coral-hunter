@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-25T19:43:02.336389+00:00",
-      "seen_at": "2026-09-25T19:43:16.233297+00:00"
+      "fetched_at": "2026-09-25T22:58:17.292792+00:00",
+      "seen_at": "2026-09-25T22:58:34.940617+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-25T19:43:09.136932+00:00",
-      "seen_at": "2026-09-25T19:43:16.233307+00:00"
+      "fetched_at": "2026-09-25T22:58:24.549325+00:00",
+      "seen_at": "2026-09-25T22:58:34.940632+00:00"
     }
   },
   "alert_cooldowns": {
@@ -124,7 +124,7 @@
     "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html": "2026-09-24T22:50:50.133957+00:00"
   },
   "stats": {
-    "total_runs": 89,
+    "total_runs": 90,
     "total_alerts": 8
   }
 }
