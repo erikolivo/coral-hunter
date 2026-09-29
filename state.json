@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-29T00:04:19.649234+00:00",
-      "seen_at": "2026-09-29T00:04:34.594726+00:00"
+      "fetched_at": "2026-09-29T11:50:10.284277+00:00",
+      "seen_at": "2026-09-29T11:50:38.064744+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -109,8 +109,22 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-29T00:04:26.064626+00:00",
-      "seen_at": "2026-09-29T00:04:34.594742+00:00"
+      "fetched_at": "2026-09-29T11:50:23.005953+00:00",
+      "seen_at": "2026-09-29T11:50:38.064754+00:00"
+    },
+    "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
+      "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
+      "name": "LLANTA ILK BL 265/70R17 LI 115 TRMX LSR1",
+      "original_price": 1149998.85,
+      "discount_price": 127.75,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/L/4LL051M-UN_1790634241252.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "484634",
+      "category": "automotriz",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-29T11:49:58.284961+00:00",
+      "seen_at": "2026-09-29T11:50:38.064733+00:00"
     }
   },
   "alert_cooldowns": {
@@ -121,10 +135,11 @@
     "https://coralhipermercados.com/adapt-base-boq-738v-2p2w-125v-marf-coop-6128.html": "2026-09-16T10:30:34.274562+00:00",
     "https://coralhipermercados.com/plancha-de-acrilico-blanco-3mm-9691.html": "2026-09-17T19:25:45.174308+00:00",
     "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": "2026-09-17T19:25:45.174353+00:00",
-    "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html": "2026-09-24T22:50:50.133957+00:00"
+    "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html": "2026-09-24T22:50:50.133957+00:00",
+    "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": "2026-09-29T11:50:38.064718+00:00"
   },
   "stats": {
-    "total_runs": 104,
-    "total_alerts": 8
+    "total_runs": 105,
+    "total_alerts": 9
   }
 }
