@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T11:36:02.740729+00:00",
-      "seen_at": "2026-09-30T11:36:27.629705+00:00"
+      "fetched_at": "2026-09-30T17:15:09.936208+00:00",
+      "seen_at": "2026-09-30T17:15:29.910154+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T11:36:14.362447+00:00",
-      "seen_at": "2026-09-30T11:36:27.629713+00:00"
+      "fetched_at": "2026-09-30T17:15:19.596222+00:00",
+      "seen_at": "2026-09-30T17:15:29.910158+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -123,8 +123,22 @@
       "category": "automotriz",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T11:35:51.886625+00:00",
-      "seen_at": "2026-09-30T11:36:27.629692+00:00"
+      "fetched_at": "2026-09-30T17:14:58.661205+00:00",
+      "seen_at": "2026-09-30T17:15:29.910147+00:00"
+    },
+    "https://coralhipermercados.com/arnes-seguridad-c-linea-d-vida-rojo-azul-5281.html": {
+      "url": "https://coralhipermercados.com/arnes-seguridad-c-linea-d-vida-rojo-azul-5281.html",
+      "name": "Arnes Seguridad Con Linea De Vida Rojo/azul",
+      "original_price": 1149998.85,
+      "discount_price": 54.82,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/p/4p410vm.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "261965",
+      "category": "ferreteria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-09-30T17:14:32.538820+00:00",
+      "seen_at": "2026-09-30T17:15:29.910139+00:00"
     }
   },
   "alert_cooldowns": {
@@ -136,10 +150,11 @@
     "https://coralhipermercados.com/plancha-de-acrilico-blanco-3mm-9691.html": "2026-09-17T19:25:45.174308+00:00",
     "https://coralhipermercados.com/plumas-momo-plana-20-t-caucho-wf-001-20-3230.html": "2026-09-17T19:25:45.174353+00:00",
     "https://coralhipermercados.com/galleta-krispiz-228g-x6uds-361.html": "2026-09-24T22:50:50.133957+00:00",
-    "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": "2026-09-29T11:50:38.064718+00:00"
+    "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": "2026-09-29T11:50:38.064718+00:00",
+    "https://coralhipermercados.com/arnes-seguridad-c-linea-d-vida-rojo-azul-5281.html": "2026-09-30T17:15:29.910128+00:00"
   },
   "stats": {
-    "total_runs": 109,
-    "total_alerts": 9
+    "total_runs": 110,
+    "total_alerts": 10
   }
 }
