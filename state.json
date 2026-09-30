@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T17:15:09.936208+00:00",
-      "seen_at": "2026-09-30T17:15:29.910154+00:00"
+      "fetched_at": "2026-09-30T21:41:34.790989+00:00",
+      "seen_at": "2026-09-30T21:41:58.314453+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T17:15:19.596222+00:00",
-      "seen_at": "2026-09-30T17:15:29.910158+00:00"
+      "fetched_at": "2026-09-30T21:41:44.081420+00:00",
+      "seen_at": "2026-09-30T21:41:58.314461+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -123,8 +123,8 @@
       "category": "automotriz",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T17:14:58.661205+00:00",
-      "seen_at": "2026-09-30T17:15:29.910147+00:00"
+      "fetched_at": "2026-09-30T21:41:24.692856+00:00",
+      "seen_at": "2026-09-30T21:41:58.314444+00:00"
     },
     "https://coralhipermercados.com/arnes-seguridad-c-linea-d-vida-rojo-azul-5281.html": {
       "url": "https://coralhipermercados.com/arnes-seguridad-c-linea-d-vida-rojo-azul-5281.html",
@@ -137,8 +137,8 @@
       "category": "ferreteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-30T17:14:32.538820+00:00",
-      "seen_at": "2026-09-30T17:15:29.910139+00:00"
+      "fetched_at": "2026-09-30T21:40:53.400410+00:00",
+      "seen_at": "2026-09-30T21:41:58.314427+00:00"
     }
   },
   "alert_cooldowns": {
@@ -154,7 +154,7 @@
     "https://coralhipermercados.com/arnes-seguridad-c-linea-d-vida-rojo-azul-5281.html": "2026-09-30T17:15:29.910128+00:00"
   },
   "stats": {
-    "total_runs": 110,
+    "total_runs": 111,
     "total_alerts": 10
   }
 }
