@@ -11,8 +11,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-29T21:40:19.215736+00:00",
-      "seen_at": "2026-09-29T21:40:44.271038+00:00"
+      "fetched_at": "2026-09-30T00:54:46.957240+00:00",
+      "seen_at": "2026-09-30T00:55:06.237203+00:00"
     },
     "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html": {
       "url": "https://coralhipermercados.com/esmeril-multiuso-1-6hp-110vv-v-cp5005-1-4894.html",
@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-29T21:40:31.122983+00:00",
-      "seen_at": "2026-09-29T21:40:44.271046+00:00"
+      "fetched_at": "2026-09-30T00:54:53.356177+00:00",
+      "seen_at": "2026-09-30T00:55:06.237208+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -123,8 +123,8 @@
       "category": "automotriz",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-09-29T21:40:05.813451+00:00",
-      "seen_at": "2026-09-29T21:40:44.271023+00:00"
+      "fetched_at": "2026-09-30T00:54:36.221531+00:00",
+      "seen_at": "2026-09-30T00:55:06.237193+00:00"
     }
   },
   "alert_cooldowns": {
@@ -139,7 +139,7 @@
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": "2026-09-29T11:50:38.064718+00:00"
   },
   "stats": {
-    "total_runs": 107,
+    "total_runs": 108,
     "total_alerts": 9
   }
 }
