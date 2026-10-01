@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-01T12:04:43.709801+00:00",
-      "seen_at": "2026-10-01T12:04:55.146005+00:00"
+      "fetched_at": "2026-10-01T18:38:22.179808+00:00",
+      "seen_at": "2026-10-01T18:38:32.415078+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -263,8 +263,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-01T12:04:32.920772+00:00",
-      "seen_at": "2026-10-01T12:04:55.145955+00:00"
+      "fetched_at": "2026-10-01T18:38:15.469076+00:00",
+      "seen_at": "2026-10-01T18:38:32.415062+00:00"
     },
     "https://coralhipermercados.com/4a130yy-un.html": {
       "url": "https://coralhipermercados.com/4a130yy-un.html",
@@ -277,8 +277,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-01T12:04:32.921149+00:00",
-      "seen_at": "2026-10-01T12:04:55.145961+00:00"
+      "fetched_at": "2026-10-01T18:38:15.469451+00:00",
+      "seen_at": "2026-10-01T18:38:32.415071+00:00"
     },
     "https://coralhipermercados.com/4a130zz-un.html": {
       "url": "https://coralhipermercados.com/4a130zz-un.html",
@@ -375,8 +375,22 @@
       "category": "hogar",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-01T12:04:47.883514+00:00",
-      "seen_at": "2026-10-01T12:04:55.146012+00:00"
+      "fetched_at": "2026-10-01T18:38:27.111074+00:00",
+      "seen_at": "2026-10-01T18:38:32.415086+00:00"
+    },
+    "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html": {
+      "url": "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html",
+      "name": "Aluc Blan 1.22x2.44x3mm 15mm jx-8009",
+      "original_price": 29.26,
+      "discount_price": 17.55,
+      "discount_pct": 40.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/a/4a13048_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "170696",
+      "category": "acabados",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-01T18:38:15.468373+00:00",
+      "seen_at": "2026-10-01T18:38:32.415052+00:00"
     }
   },
   "alert_cooldowns": {
@@ -406,10 +420,11 @@
     "https://coralhipermercados.com/4cmtl18-un.html": "2026-10-01T12:04:55.145715+00:00",
     "https://coralhipermercados.com/4g30284-un.html": "2026-10-01T12:04:55.145792+00:00",
     "https://coralhipermercados.com/4g43305-un.html": "2026-10-01T12:04:55.145841+00:00",
-    "https://coralhipermercados.com/cable-d-seguridad-targus-asp61la-61-1.html": "2026-10-01T12:04:55.145887+00:00"
+    "https://coralhipermercados.com/cable-d-seguridad-targus-asp61la-61-1.html": "2026-10-01T12:04:55.145887+00:00",
+    "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html": "2026-10-01T18:38:32.415039+00:00"
   },
   "stats": {
-    "total_runs": 113,
-    "total_alerts": 27
+    "total_runs": 114,
+    "total_alerts": 28
   }
 }
