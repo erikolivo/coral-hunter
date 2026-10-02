@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:03:23.233891+00:00",
-      "seen_at": "2026-10-02T17:03:34.052314+00:00"
+      "fetched_at": "2026-10-02T21:35:54.910701+00:00",
+      "seen_at": "2026-10-02T21:36:03.859474+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -207,8 +207,8 @@
       "category": "iluminacion",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:02:48.905976+00:00",
-      "seen_at": "2026-10-02T17:03:34.052265+00:00"
+      "fetched_at": "2026-10-02T21:35:27.243275+00:00",
+      "seen_at": "2026-10-02T21:36:03.859438+00:00"
     },
     "https://coralhipermercados.com/foco-led-52-5lm-w-3000k-12w-5063.html": {
       "url": "https://coralhipermercados.com/foco-led-52-5lm-w-3000k-12w-5063.html",
@@ -221,8 +221,8 @@
       "category": "iluminacion",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:02:48.907456+00:00",
-      "seen_at": "2026-10-02T17:03:34.052277+00:00"
+      "fetched_at": "2026-10-02T21:35:27.244457+00:00",
+      "seen_at": "2026-10-02T21:36:03.859446+00:00"
     },
     "https://coralhipermercados.com/foco-led-90lm-w-3000k-5w-6101.html": {
       "url": "https://coralhipermercados.com/foco-led-90lm-w-3000k-5w-6101.html",
@@ -235,8 +235,8 @@
       "category": "iluminacion",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:02:48.908901+00:00",
-      "seen_at": "2026-10-02T17:03:34.052290+00:00"
+      "fetched_at": "2026-10-02T21:35:27.245110+00:00",
+      "seen_at": "2026-10-02T21:36:03.859451+00:00"
     },
     "https://coralhipermercados.com/foco-led-90lm-w-6500k-7w-6102.html": {
       "url": "https://coralhipermercados.com/foco-led-90lm-w-6500k-7w-6102.html",
@@ -263,8 +263,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:03:13.616053+00:00",
-      "seen_at": "2026-10-02T17:03:34.052297+00:00"
+      "fetched_at": "2026-10-02T21:35:48.092849+00:00",
+      "seen_at": "2026-10-02T21:36:03.859463+00:00"
     },
     "https://coralhipermercados.com/4a130yy-un.html": {
       "url": "https://coralhipermercados.com/4a130yy-un.html",
@@ -277,8 +277,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:03:13.616411+00:00",
-      "seen_at": "2026-10-02T17:03:34.052303+00:00"
+      "fetched_at": "2026-10-02T21:35:48.093074+00:00",
+      "seen_at": "2026-10-02T21:36:03.859469+00:00"
     },
     "https://coralhipermercados.com/4a130zz-un.html": {
       "url": "https://coralhipermercados.com/4a130zz-un.html",
@@ -375,8 +375,8 @@
       "category": "hogar",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T17:03:27.826309+00:00",
-      "seen_at": "2026-10-02T17:03:34.052320+00:00"
+      "fetched_at": "2026-10-02T21:35:58.318623+00:00",
+      "seen_at": "2026-10-02T21:36:03.859480+00:00"
     },
     "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html": {
       "url": "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html",
@@ -389,8 +389,8 @@
       "category": "acabados",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-02T11:35:41.614955+00:00",
-      "seen_at": "2026-10-02T11:36:03.078406+00:00"
+      "fetched_at": "2026-10-02T21:35:48.092399+00:00",
+      "seen_at": "2026-10-02T21:36:03.859457+00:00"
     },
     "https://coralhipermercados.com/foco-led-80x142mm-3500k-20w-110v-5066.html": {
       "url": "https://coralhipermercados.com/foco-led-80x142mm-3500k-20w-110v-5066.html",
@@ -405,6 +405,20 @@
       "verdict": "DEAL",
       "fetched_at": "2026-10-02T17:02:48.908528+00:00",
       "seen_at": "2026-10-02T17:03:34.052285+00:00"
+    },
+    "https://coralhipermercados.com/abrazadera-acer-inoxid-ctry-5-8-x8mm-5987.html": {
+      "url": "https://coralhipermercados.com/abrazadera-acer-inoxid-ctry-5-8-x8mm-5987.html",
+      "name": "Abrazad Acer/inox Ctry 5/8x8mm Set 5pzs",
+      "original_price": 0.52,
+      "discount_price": 0.31,
+      "discount_pct": 40.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/4/A/4A1149N-UN_1789687554095.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "143621",
+      "category": "ferreteria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-02T21:35:20.426505+00:00",
+      "seen_at": "2026-10-02T21:36:03.859430+00:00"
     }
   },
   "alert_cooldowns": {
@@ -436,10 +450,11 @@
     "https://coralhipermercados.com/4g43305-un.html": "2026-10-01T12:04:55.145841+00:00",
     "https://coralhipermercados.com/cable-d-seguridad-targus-asp61la-61-1.html": "2026-10-01T12:04:55.145887+00:00",
     "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html": "2026-10-01T18:38:32.415039+00:00",
-    "https://coralhipermercados.com/foco-led-80x142mm-3500k-20w-110v-5066.html": "2026-10-02T17:03:34.052251+00:00"
+    "https://coralhipermercados.com/foco-led-80x142mm-3500k-20w-110v-5066.html": "2026-10-02T17:03:34.052251+00:00",
+    "https://coralhipermercados.com/abrazadera-acer-inoxid-ctry-5-8-x8mm-5987.html": "2026-10-02T21:36:03.859419+00:00"
   },
   "stats": {
-    "total_runs": 118,
-    "total_alerts": 29
+    "total_runs": 119,
+    "total_alerts": 30
   }
 }
