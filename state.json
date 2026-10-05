@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-05T01:25:25.587415+00:00",
-      "seen_at": "2026-10-05T01:25:38.536276+00:00"
+      "fetched_at": "2026-10-05T13:02:18.194004+00:00",
+      "seen_at": "2026-10-05T13:02:29.237645+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -454,7 +454,7 @@
     "https://coralhipermercados.com/abrazadera-acer-inoxid-ctry-5-8-x8mm-5987.html": "2026-10-02T21:36:03.859419+00:00"
   },
   "stats": {
-    "total_runs": 130,
+    "total_runs": 131,
     "total_alerts": 30
   }
 }
