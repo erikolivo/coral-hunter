@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-06T22:51:30.449116+00:00",
-      "seen_at": "2026-10-06T22:51:42.082592+00:00"
+      "fetched_at": "2026-10-07T12:19:29.831314+00:00",
+      "seen_at": "2026-10-07T12:19:42.315428+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -419,6 +419,62 @@
       "verdict": "DEAL",
       "fetched_at": "2026-10-03T18:34:03.901914+00:00",
       "seen_at": "2026-10-03T18:34:49.378367+00:00"
+    },
+    "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11324/": {
+      "url": "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11324/",
+      "name": "Bebida Hidratante Sabor A Frutas Tropicales Powerade 600 Ml",
+      "original_price": 1149998.85,
+      "discount_price": 0.53,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/X/0/X0E0447-UN_1.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "389866",
+      "category": "bebidas-y-licores",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-07T12:19:25.104394+00:00",
+      "seen_at": "2026-10-07T12:19:42.315415+00:00"
+    },
+    "https://coralhipermercados.com/powerade-mora-azul-600ml-1142.html": {
+      "url": "https://coralhipermercados.com/powerade-mora-azul-600ml-1142.html",
+      "name": "Bebida Hidratante Sabor A Mora Azul Powerade 600 Ml",
+      "original_price": 1149998.85,
+      "discount_price": 0.53,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/x/0/x0e0446.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "321163",
+      "category": "bebidas-y-licores",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-07T12:19:25.104704+00:00",
+      "seen_at": "2026-10-07T12:19:42.315420+00:00"
+    },
+    "https://coralhipermercados.com/powerade-uva-600ml-1140.html": {
+      "url": "https://coralhipermercados.com/powerade-uva-600ml-1140.html",
+      "name": "Bebida Hidratante Uva Powerade 600 Ml",
+      "original_price": 1149998.85,
+      "discount_price": 0.53,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/x/0/x0e0445.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "321157",
+      "category": "bebidas-y-licores",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-07T12:19:25.104870+00:00",
+      "seen_at": "2026-10-07T12:19:42.315424+00:00"
+    },
+    "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11333/": {
+      "url": "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11333/",
+      "name": "Bebida Hidratante Sabor A Frutas Tropicales Powerade 600 Ml",
+      "original_price": 1149998.85,
+      "discount_price": 0.53,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/X/0/X0E0447-UN_1.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "389866",
+      "category": "hogar",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-07T12:19:34.695039+00:00",
+      "seen_at": "2026-10-07T12:19:42.315433+00:00"
     }
   },
   "alert_cooldowns": {
@@ -451,10 +507,14 @@
     "https://coralhipermercados.com/cable-d-seguridad-targus-asp61la-61-1.html": "2026-10-01T12:04:55.145887+00:00",
     "https://coralhipermercados.com/aluc-blan-1-22x2-44x3mm-15mm-yf117-pe-2978.html": "2026-10-01T18:38:32.415039+00:00",
     "https://coralhipermercados.com/foco-led-80x142mm-3500k-20w-110v-5066.html": "2026-10-02T17:03:34.052251+00:00",
-    "https://coralhipermercados.com/abrazadera-acer-inoxid-ctry-5-8-x8mm-5987.html": "2026-10-02T21:36:03.859419+00:00"
+    "https://coralhipermercados.com/abrazadera-acer-inoxid-ctry-5-8-x8mm-5987.html": "2026-10-02T21:36:03.859419+00:00",
+    "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11324/": "2026-10-07T12:19:42.315303+00:00",
+    "https://coralhipermercados.com/powerade-mora-azul-600ml-1142.html": "2026-10-07T12:19:42.315344+00:00",
+    "https://coralhipermercados.com/powerade-uva-600ml-1140.html": "2026-10-07T12:19:42.315378+00:00",
+    "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11333/": "2026-10-07T12:19:42.315408+00:00"
   },
   "stats": {
-    "total_runs": 137,
-    "total_alerts": 30
+    "total_runs": 138,
+    "total_alerts": 34
   }
 }
