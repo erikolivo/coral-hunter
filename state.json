@@ -109,8 +109,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-07T12:19:29.831314+00:00",
-      "seen_at": "2026-10-07T12:19:42.315428+00:00"
+      "fetched_at": "2026-10-10T11:35:37.150907+00:00",
+      "seen_at": "2026-10-10T11:35:47.924492+00:00"
     },
     "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html": {
       "url": "https://coralhipermercados.com/llanta-ilk-bl-265-70r17-li-115-trmx-lsr1.html",
@@ -514,7 +514,7 @@
     "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11333/": "2026-10-07T12:19:42.315408+00:00"
   },
   "stats": {
-    "total_runs": 147,
+    "total_runs": 148,
     "total_alerts": 34
   }
 }
