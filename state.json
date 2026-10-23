@@ -489,6 +489,20 @@
       "verdict": "DEAL",
       "fetched_at": "2026-10-12T13:53:32.605699+00:00",
       "seen_at": "2026-10-12T13:54:10.214244+00:00"
+    },
+    "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": {
+      "url": "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html",
+      "name": "Candado Barril 50MM Gold Stanley",
+      "original_price": 114998.85,
+      "discount_price": 2.71,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/S/X/SXPDGOIHBP50-UN_1785462566075.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "495500",
+      "category": "stanley",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-10-23T19:39:12.289407+00:00",
+      "seen_at": "2026-10-23T19:39:48.336960+00:00"
     }
   },
   "alert_cooldowns": {
@@ -526,10 +540,11 @@
     "https://coralhipermercados.com/powerade-mora-azul-600ml-1142.html": "2026-10-07T12:19:42.315344+00:00",
     "https://coralhipermercados.com/powerade-uva-600ml-1140.html": "2026-10-07T12:19:42.315378+00:00",
     "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11333/": "2026-10-07T12:19:42.315408+00:00",
-    "https://coralhipermercados.com/ablandador-de-carne-hb0408bs-51gad20-un.html": "2026-10-12T13:54:10.214231+00:00"
+    "https://coralhipermercados.com/ablandador-de-carne-hb0408bs-51gad20-un.html": "2026-10-12T13:54:10.214231+00:00",
+    "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": "2026-10-23T19:39:48.336946+00:00"
   },
   "stats": {
-    "total_runs": 209,
-    "total_alerts": 35
+    "total_runs": 210,
+    "total_alerts": 36
   }
 }
