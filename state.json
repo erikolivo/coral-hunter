@@ -501,8 +501,8 @@
       "category": "stanley",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-10-23T19:39:12.289407+00:00",
-      "seen_at": "2026-10-23T19:39:48.336960+00:00"
+      "fetched_at": "2026-10-23T22:45:34.735988+00:00",
+      "seen_at": "2026-10-23T22:46:07.068993+00:00"
     }
   },
   "alert_cooldowns": {
@@ -544,7 +544,7 @@
     "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": "2026-10-23T19:39:48.336946+00:00"
   },
   "stats": {
-    "total_runs": 210,
+    "total_runs": 211,
     "total_alerts": 36
   }
 }
