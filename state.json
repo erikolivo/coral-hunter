@@ -503,6 +503,20 @@
       "verdict": "DEAL",
       "fetched_at": "2026-10-24T09:59:32.923210+00:00",
       "seen_at": "2026-10-24T09:59:57.341409+00:00"
+    },
+    "https://coralhipermercados.com/aceite-girasol-ales-girasoli-36l-x9mg1163-un.html": {
+      "url": "https://coralhipermercados.com/aceite-girasol-ales-girasoli-36l-x9mg1163-un.html",
+      "name": "Aceite de Girasol Ales Girasoli 3.6L",
+      "original_price": 99999.0,
+      "discount_price": 10.14,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/X/9/X9MG1163-UN_1789766794814.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "504269",
+      "category": "comisariato",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-11-01T18:12:03.048439+00:00",
+      "seen_at": "2026-11-01T18:13:01.885530+00:00"
     }
   },
   "alert_cooldowns": {
@@ -541,10 +555,11 @@
     "https://coralhipermercados.com/powerade-uva-600ml-1140.html": "2026-10-07T12:19:42.315378+00:00",
     "https://coralhipermercados.com/catalog/product/view/id/389866/s/powerade-frutos-tropicales-600ml/category/11333/": "2026-10-07T12:19:42.315408+00:00",
     "https://coralhipermercados.com/ablandador-de-carne-hb0408bs-51gad20-un.html": "2026-10-12T13:54:10.214231+00:00",
-    "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": "2026-10-23T19:39:48.336946+00:00"
+    "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": "2026-10-23T19:39:48.336946+00:00",
+    "https://coralhipermercados.com/aceite-girasol-ales-girasoli-36l-x9mg1163-un.html": "2026-11-01T18:13:01.885523+00:00"
   },
   "stats": {
-    "total_runs": 248,
-    "total_alerts": 36
+    "total_runs": 249,
+    "total_alerts": 37
   }
 }
