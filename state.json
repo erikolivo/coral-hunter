@@ -529,8 +529,8 @@
       "category": "ferreteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-08T12:27:19.781380+00:00",
-      "seen_at": "2026-11-08T12:28:12.148602+00:00"
+      "fetched_at": "2026-11-08T18:09:46.971112+00:00",
+      "seen_at": "2026-11-08T18:10:31.668503+00:00"
     }
   },
   "alert_cooldowns": {
@@ -574,7 +574,7 @@
     "https://coralhipermercados.com/azadon-tra-mango-naranja-43cm-77806-201-6177.html": "2026-11-06T01:17:58.403488+00:00"
   },
   "stats": {
-    "total_runs": 263,
+    "total_runs": 264,
     "total_alerts": 38
   }
 }
