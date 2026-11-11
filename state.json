@@ -522,15 +522,15 @@
       "url": "https://coralhipermercados.com/azadon-tra-mango-naranja-43cm-77806-201-6177.html",
       "name": "Azadon Tra Mango Naranja 43CM 77806/201/3",
       "original_price": 4.59,
-      "discount_price": 2.52,
-      "discount_pct": 45.1,
+      "discount_price": 2.75,
+      "discount_pct": 40.1,
       "image_url": "https://coralhipermercados.com/media/catalog/product/4/a/4a10570.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
       "product_id": "143078",
       "category": "ferreteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-09T14:41:54.607232+00:00",
-      "seen_at": "2026-11-09T14:42:52.728124+00:00"
+      "fetched_at": "2026-11-11T00:57:24.453302+00:00",
+      "seen_at": "2026-11-11T00:58:37.683569+00:00"
     }
   },
   "alert_cooldowns": {
@@ -574,7 +574,7 @@
     "https://coralhipermercados.com/azadon-tra-mango-naranja-43cm-77806-201-6177.html": "2026-11-06T01:17:58.403488+00:00"
   },
   "stats": {
-    "total_runs": 270,
+    "total_runs": 271,
     "total_alerts": 38
   }
 }
