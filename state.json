@@ -531,6 +531,20 @@
       "verdict": "DEAL",
       "fetched_at": "2026-11-15T23:39:06.379111+00:00",
       "seen_at": "2026-11-15T23:39:55.933235+00:00"
+    },
+    "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": {
+      "url": "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html",
+      "name": "Chocolate Con Maní Manicho 25 G",
+      "original_price": 0.66,
+      "discount_price": 0.39,
+      "discount_pct": 40.4,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/m/a/manicho_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "376645",
+      "category": "confiteria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-11-16T14:18:45.839393+00:00",
+      "seen_at": "2026-11-16T14:18:57.474923+00:00"
     }
   },
   "alert_cooldowns": {
@@ -571,10 +585,11 @@
     "https://coralhipermercados.com/ablandador-de-carne-hb0408bs-51gad20-un.html": "2026-10-12T13:54:10.214231+00:00",
     "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": "2026-10-23T19:39:48.336946+00:00",
     "https://coralhipermercados.com/aceite-girasol-ales-girasoli-36l-x9mg1163-un.html": "2026-11-01T18:13:01.885523+00:00",
-    "https://coralhipermercados.com/azadon-tra-mango-naranja-43cm-77806-201-6177.html": "2026-11-06T01:17:58.403488+00:00"
+    "https://coralhipermercados.com/azadon-tra-mango-naranja-43cm-77806-201-6177.html": "2026-11-06T01:17:58.403488+00:00",
+    "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": "2026-11-16T14:18:57.474910+00:00"
   },
   "stats": {
-    "total_runs": 287,
-    "total_alerts": 38
+    "total_runs": 288,
+    "total_alerts": 39
   }
 }
