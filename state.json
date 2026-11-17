@@ -529,8 +529,8 @@
       "category": "ferreteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-16T23:35:28.973034+00:00",
-      "seen_at": "2026-11-16T23:36:41.384518+00:00"
+      "fetched_at": "2026-11-17T15:10:45.659430+00:00",
+      "seen_at": "2026-11-17T15:11:53.484586+00:00"
     },
     "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": {
       "url": "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html",
@@ -543,8 +543,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-16T23:36:27.603797+00:00",
-      "seen_at": "2026-11-16T23:36:41.384530+00:00"
+      "fetched_at": "2026-11-17T15:11:39.222499+00:00",
+      "seen_at": "2026-11-17T15:11:53.484596+00:00"
     }
   },
   "alert_cooldowns": {
@@ -589,7 +589,7 @@
     "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": "2026-11-16T14:18:57.474910+00:00"
   },
   "stats": {
-    "total_runs": 289,
+    "total_runs": 290,
     "total_alerts": 39
   }
 }
