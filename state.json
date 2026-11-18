@@ -529,8 +529,8 @@
       "category": "ferreteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-17T23:14:51.018510+00:00",
-      "seen_at": "2026-11-17T23:15:38.462515+00:00"
+      "fetched_at": "2026-11-18T14:48:41.683817+00:00",
+      "seen_at": "2026-11-18T14:49:44.652477+00:00"
     },
     "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": {
       "url": "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html",
@@ -543,8 +543,50 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-17T23:15:28.068617+00:00",
-      "seen_at": "2026-11-17T23:15:38.462524+00:00"
+      "fetched_at": "2026-11-18T14:49:33.357653+00:00",
+      "seen_at": "2026-11-18T14:49:44.652500+00:00"
+    },
+    "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": {
+      "url": "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html",
+      "name": "Bomba Aceite Manual 3/4 1m",
+      "original_price": 1149998.85,
+      "discount_price": 7.83,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/6/B/6B10107-UN_1789712269791.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "415567",
+      "category": "automotriz",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-11-18T14:49:11.665382+00:00",
+      "seen_at": "2026-11-18T14:49:44.652486+00:00"
+    },
+    "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html": {
+      "url": "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html",
+      "name": "Compresor 2HP 6,3G CENTURY/1",
+      "original_price": 1149998.85,
+      "discount_price": 109.27,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/6/c/6c14011_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "179621",
+      "category": "maquinaria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-11-18T14:49:17.965925+00:00",
+      "seen_at": "2026-11-18T14:49:44.652491+00:00"
+    },
+    "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": {
+      "url": "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html",
+      "name": "Engrapadora Neumatica Century an-80",
+      "original_price": 1149998.85,
+      "discount_price": 21.67,
+      "discount_pct": 100.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/6/E/6ENTW23-UN_1789712610228.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "254630",
+      "category": "maquinaria",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-11-18T14:49:17.966928+00:00",
+      "seen_at": "2026-11-18T14:49:44.652495+00:00"
     }
   },
   "alert_cooldowns": {
@@ -586,10 +628,13 @@
     "https://coralhipermercados.com/candado-barril-50mm-gold-stanley-sxpdgoihbp50-un.html": "2026-10-23T19:39:48.336946+00:00",
     "https://coralhipermercados.com/aceite-girasol-ales-girasoli-36l-x9mg1163-un.html": "2026-11-01T18:13:01.885523+00:00",
     "https://coralhipermercados.com/azadon-tra-mango-naranja-43cm-77806-201-6177.html": "2026-11-06T01:17:58.403488+00:00",
-    "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": "2026-11-16T14:18:57.474910+00:00"
+    "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": "2026-11-16T14:18:57.474910+00:00",
+    "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": "2026-11-18T14:49:44.652388+00:00",
+    "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html": "2026-11-18T14:49:44.652437+00:00",
+    "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": "2026-11-18T14:49:44.652469+00:00"
   },
   "stats": {
-    "total_runs": 291,
-    "total_alerts": 39
+    "total_runs": 292,
+    "total_alerts": 42
   }
 }
