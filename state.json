@@ -529,8 +529,8 @@
       "category": "ferreteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T14:48:41.683817+00:00",
-      "seen_at": "2026-11-18T14:49:44.652477+00:00"
+      "fetched_at": "2026-11-18T22:25:49.342341+00:00",
+      "seen_at": "2026-11-18T22:26:51.253723+00:00"
     },
     "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": {
       "url": "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html",
@@ -543,8 +543,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T14:49:33.357653+00:00",
-      "seen_at": "2026-11-18T14:49:44.652500+00:00"
+      "fetched_at": "2026-11-18T22:26:38.479370+00:00",
+      "seen_at": "2026-11-18T22:26:51.253761+00:00"
     },
     "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": {
       "url": "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html",
@@ -557,8 +557,8 @@
       "category": "automotriz",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T14:49:11.665382+00:00",
-      "seen_at": "2026-11-18T14:49:44.652486+00:00"
+      "fetched_at": "2026-11-18T22:26:18.796274+00:00",
+      "seen_at": "2026-11-18T22:26:51.253739+00:00"
     },
     "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html": {
       "url": "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html",
@@ -571,8 +571,8 @@
       "category": "maquinaria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T14:49:17.965925+00:00",
-      "seen_at": "2026-11-18T14:49:44.652491+00:00"
+      "fetched_at": "2026-11-18T22:26:24.557024+00:00",
+      "seen_at": "2026-11-18T22:26:51.253748+00:00"
     },
     "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": {
       "url": "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html",
@@ -585,8 +585,8 @@
       "category": "maquinaria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T14:49:17.966928+00:00",
-      "seen_at": "2026-11-18T14:49:44.652495+00:00"
+      "fetched_at": "2026-11-18T22:26:24.558209+00:00",
+      "seen_at": "2026-11-18T22:26:51.253755+00:00"
     }
   },
   "alert_cooldowns": {
@@ -634,7 +634,7 @@
     "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": "2026-11-18T14:49:44.652469+00:00"
   },
   "stats": {
-    "total_runs": 292,
+    "total_runs": 293,
     "total_alerts": 42
   }
 }
