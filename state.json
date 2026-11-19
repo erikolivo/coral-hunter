@@ -543,8 +543,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T22:26:38.479370+00:00",
-      "seen_at": "2026-11-18T22:26:51.253761+00:00"
+      "fetched_at": "2026-11-19T03:56:03.204634+00:00",
+      "seen_at": "2026-11-19T03:56:14.711314+00:00"
     },
     "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": {
       "url": "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html",
@@ -557,8 +557,8 @@
       "category": "automotriz",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T22:26:18.796274+00:00",
-      "seen_at": "2026-11-18T22:26:51.253739+00:00"
+      "fetched_at": "2026-11-19T03:55:43.942946+00:00",
+      "seen_at": "2026-11-19T03:56:14.711298+00:00"
     },
     "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html": {
       "url": "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html",
@@ -585,8 +585,8 @@
       "category": "maquinaria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-18T22:26:24.558209+00:00",
-      "seen_at": "2026-11-18T22:26:51.253755+00:00"
+      "fetched_at": "2026-11-19T03:55:48.990621+00:00",
+      "seen_at": "2026-11-19T03:56:14.711308+00:00"
     }
   },
   "alert_cooldowns": {
@@ -634,7 +634,7 @@
     "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": "2026-11-18T14:49:44.652469+00:00"
   },
   "stats": {
-    "total_runs": 293,
+    "total_runs": 294,
     "total_alerts": 42
   }
 }
