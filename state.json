@@ -543,8 +543,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-21T13:54:39.820384+00:00",
-      "seen_at": "2026-11-21T13:54:48.961824+00:00"
+      "fetched_at": "2026-11-21T20:19:17.894795+00:00",
+      "seen_at": "2026-11-21T20:19:31.006335+00:00"
     },
     "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": {
       "url": "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html",
@@ -634,7 +634,7 @@
     "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": "2026-11-18T14:49:44.652469+00:00"
   },
   "stats": {
-    "total_runs": 301,
+    "total_runs": 302,
     "total_alerts": 42
   }
 }
