@@ -543,8 +543,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-24T03:07:18.585017+00:00",
-      "seen_at": "2026-11-24T03:07:29.427619+00:00"
+      "fetched_at": "2026-11-24T16:43:47.199999+00:00",
+      "seen_at": "2026-11-24T16:43:58.849374+00:00"
     },
     "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": {
       "url": "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html",
@@ -599,8 +599,8 @@
       "category": "hogar",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-24T03:06:35.913031+00:00",
-      "seen_at": "2026-11-24T03:07:29.427611+00:00"
+      "fetched_at": "2026-11-24T16:43:07.318392+00:00",
+      "seen_at": "2026-11-24T16:43:58.849362+00:00"
     }
   },
   "alert_cooldowns": {
@@ -649,7 +649,7 @@
     "https://coralhipermercados.com/2-figuras-bluey-s12-17975-1765217974-5jboi00-un.html": "2026-11-24T03:07:29.427601+00:00"
   },
   "stats": {
-    "total_runs": 308,
+    "total_runs": 309,
     "total_alerts": 43
   }
 }
