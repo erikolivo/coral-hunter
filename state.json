@@ -543,8 +543,8 @@
       "category": "confiteria",
       "is_promo_2x1": false,
       "verdict": "DEAL",
-      "fetched_at": "2026-11-23T16:51:11.335009+00:00",
-      "seen_at": "2026-11-23T16:51:19.821255+00:00"
+      "fetched_at": "2026-11-24T03:07:18.585017+00:00",
+      "seen_at": "2026-11-24T03:07:29.427619+00:00"
     },
     "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": {
       "url": "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html",
@@ -587,6 +587,20 @@
       "verdict": "DEAL",
       "fetched_at": "2026-11-19T22:31:11.049884+00:00",
       "seen_at": "2026-11-19T22:31:36.386577+00:00"
+    },
+    "https://coralhipermercados.com/2-figuras-bluey-s12-17975-1765217974-5jboi00-un.html": {
+      "url": "https://coralhipermercados.com/2-figuras-bluey-s12-17975-1765217974-5jboi00-un.html",
+      "name": "2 Figuras Bluey S12 17975 17652/17974",
+      "original_price": 13.48,
+      "discount_price": 2.69,
+      "discount_pct": 80.0,
+      "image_url": "https://coralhipermercados.com/media/catalog/product/5/J/5JBOI00-UN_1785463218465.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=182&width=192&canvas=192:182",
+      "product_id": "500669",
+      "category": "hogar",
+      "is_promo_2x1": false,
+      "verdict": "DEAL",
+      "fetched_at": "2026-11-24T03:06:35.913031+00:00",
+      "seen_at": "2026-11-24T03:07:29.427611+00:00"
     }
   },
   "alert_cooldowns": {
@@ -631,10 +645,11 @@
     "https://coralhipermercados.com/chocolate-manicho-regular-unidad-25gr-3.html": "2026-11-16T14:18:57.474910+00:00",
     "https://coralhipermercados.com/bomba-aceite-manual-3-4-1m-6268.html": "2026-11-18T14:49:44.652388+00:00",
     "https://coralhipermercados.com/compresor-2hp-6-3g-century-5953.html": "2026-11-18T14:49:44.652437+00:00",
-    "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": "2026-11-18T14:49:44.652469+00:00"
+    "https://coralhipermercados.com/engrapadora-neumatica-century-an-80-16-1729.html": "2026-11-18T14:49:44.652469+00:00",
+    "https://coralhipermercados.com/2-figuras-bluey-s12-17975-1765217974-5jboi00-un.html": "2026-11-24T03:07:29.427601+00:00"
   },
   "stats": {
-    "total_runs": 307,
-    "total_alerts": 42
+    "total_runs": 308,
+    "total_alerts": 43
   }
 }
